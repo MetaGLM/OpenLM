@@ -11,5 +11,5 @@
 - 实用性强：帮助开发者迅速上手大模型领域，提升技能；
 - 针对性强：面向大模型初学者，助力顺利迈进职场。
 
-OpenLM-B站地址：https://space.bilibili.com/1559433152?spm_id_from=333.337.0.0
+OpenLM-B站搜索 “OpenLM”
     - 01 "深度探索Agent - 对GPT-4 和 Langchain 的研究"
