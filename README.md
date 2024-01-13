@@ -12,4 +12,4 @@
 - 针对性强：面向大模型初学者，助力顺利迈进职场。
 
 OpenLM-B站搜索 “OpenLM”
-    - 01 "深度探索Agent - 对GPT-4 和 Langchain 的研究"
+　　　　　- 01 "深度探索Agent - 对GPT-4 和 Langchain 的研究"
