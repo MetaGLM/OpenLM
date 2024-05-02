@@ -12,11 +12,25 @@
 - 实用性强：帮助开发者迅速上手大模型领域，提升技能；
 - 针对性强：面向大模型初学者，助力顺利迈进职场。
 
-## B 站学习：
+## python基础知识集合
 
-[OpenLM](https://space.bilibili.com/1559433152)
-- [1] [深度探索Agent - 对GPT-4 和 Langchain 的研究](https://www.bilibili.com/video/BV1kW4y1A7wt/)
-- [2] [RAG与LLM的增强技术](https://www.bilibili.com/video/BV12C4y1C7t5)
+- 
+
+## pytorch基础知识集合
+
+- 
+
+## LLM模型训练实践集合
+
+- 
+
+## LLM模型推理部署实践集合
+
+- 
+
+## LLM硬件层实践教程
+
+- 
 
 ## 大模型面试题集合
 
@@ -27,3 +41,10 @@
 
 - [3] [大模型面试题1000问（高阶）](大模型面试题集合/大模型面试题1000问（高阶）.md)
 
+## 其它视频资料
+
+### B 站学习
+
+[OpenLM](https://space.bilibili.com/1559433152)
+- [1] [深度探索Agent - 对GPT-4 和 Langchain 的研究](https://www.bilibili.com/video/BV1kW4y1A7wt/)
+- [2] [RAG与LLM的增强技术](https://www.bilibili.com/video/BV12C4y1C7t5)
