@@ -1,5 +1,12 @@
 # OpenLM
 
+<div align="center">
+<img src=assets/OpenLM.jpg width="20%"/>
+</div>
+<br>
+<p align="center">
+    🛠为加速LLM平权化而奋斗</a>
+</p>
 
 本项目致力于为大模型领域的初学者提供全面的知识体系，包括基础和高阶内容，以便开发者能迅速掌握大模型技术栈并全面了解相关知识。适用于以下对象：
 
