@@ -1,7 +1,7 @@
 # OpenLM
 
 <div align="center">
-<img src=assets/OpenLM.jpg width="20%"/>
+<img src=assets/OpenLM.jpg width="100%"/>
 </div>
 <br>
 <p align="center">
