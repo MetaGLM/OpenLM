@@ -1,7 +1,7 @@
 # OpenLM
 
 <div align="center">
-<img src=assets/OpenLM.jpg width="20%"/>
+<img src=assets/OpenLM.jpg width="60%"/>
 </div>
 <br>
 <p align="center">
@@ -39,9 +39,29 @@
 
 ## LLM模型推理部署实践集合
 
+### OpenVINO
+
+- 
+
+### vllm
+
+- 
+
+### TensorRT-LLM
+
 - 
 
 ## LLM硬件层实践教程
+
+- 
+
+## LLM应用实践集合
+
+### 单应用demo
+
+- 
+
+### RAG
 
 - 
 
